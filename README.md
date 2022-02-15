@@ -21,4 +21,5 @@ Used Lattice Boltzmann methods to simulate flow in a lid driven cavity. Performe
 Poster that I made to present my then research at a conference in Philadelphia. 
 
 
-
+## PIVDataAnalysis_Dec2017 :
+Analyzed frequency spectrum of supersonic jet noise and compared the parameters like shock cell size to analystical estimations. Signal processing includes FFT analysis and spectrograms. Used NumPy, SciPy and matplotlib for visualization. 
