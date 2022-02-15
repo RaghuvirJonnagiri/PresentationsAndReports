@@ -18,7 +18,7 @@ Used Lattice Boltzmann methods to simulate flow in a lid driven cavity. Performe
 
 
 ## PosterPCH :
-Poster that I made to present my then research at a conference in Philadelphia. 
+Poster that I made to present my then aorta research at a conference in Philadelphia. 
 
 
 ## PIVDataAnalysis_Dec2017 :
